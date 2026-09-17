@@ -31,9 +31,9 @@ Visualization and Analysis
 
 ## PROGRAM
 
-### Name: RITHIK V
+### Name:  SELVAGANESH R
 
-### Register Number: 212223230171
+### Register Number: 212223230200
 
 ```python
 # Autoencoder for Image Denoising using PyTorch
